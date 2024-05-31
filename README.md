@@ -1,1 +1,1 @@
-for the dataset, type 'happy people' and 'sad people' (for my case, feel free to use any other two categoriws of images you want to classify) and then use the extension 'download all images' which will put all those images in a zip file in the file manager. 
+for the dataset, type 'happy people' and 'sad people' (for my case, feel free to use any other two categories of images you want to classify) and then use the extension 'download all images' which will put all those images in a zip file in the file manager. 
